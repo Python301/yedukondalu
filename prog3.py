@@ -1,6 +1,6 @@
 #WAPP to perform Arthematic operations
-num1=15
-num2=2
+num1=float(input("enter num1:"))
+num2=float(input("enter num2:"))
 addition=num1+num2
 substraction=num1-num2
 multiplication=num1*num2
