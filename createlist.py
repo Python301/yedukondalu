@@ -1,3 +1,4 @@
+# Creating list from user!!!!!!!!!!!!!!!
 list=[]
 n=int(input("enter how many elements u want:"))
 i=0
